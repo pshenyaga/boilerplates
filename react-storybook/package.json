@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.10.2",
-    "@storybook/react": "^5.3.19",
+    "@storybook/react": "^6.5.13",
     "babel-loader": "^8.1.0"
   },
   "dependencies": {
